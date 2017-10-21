@@ -23,6 +23,9 @@ _____
   - [Seu código CSS pode ser mais limpo, flexível e reaproveitável](http://blog.caelum.com.br/seu-codigo-css-pode-ser-mais-limpo-flexivel-e-reaproveitavel/) by Caelum, eviado por [@lucianobarauna](https://github.com/lucianobarauna)
   - [8 regras simples para uma arquitetura CSS robusta e escalável](https://medium.com/tableless/8-regras-simples-para-uma-arquitetura-css-robusta-e-escal%C3%A1vel-545c6dade170?ct=t(BrazilJS_Weekly_468_9_2013)) by Eduardo Rabelo, eviado por [@alinebastos](https://github.com/alinebastos)
   
+- ### Livros, tutoriais, cursos e videos
+  - [Best CSS books, tutorials, videos & courses 2017](https://reactdom.com/blog/css-books), eviado por [@alinebastos](https://github.com/alinebastos) :us:
+  
 - ### Desafios de CSS
   - [100dayscss](https://100dayscss.com/), eviado por [@alinebastos](https://github.com/alinebastos)
   - [Daily CSS Images](http://dailycssimages.com/), eviado por [@alinebastos](https://github.com/alinebastos)
