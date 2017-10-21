@@ -8,7 +8,7 @@ Este repositório tem como base agrupar links com ensinamentos, técnicas ou qua
 **Confira nossas informações sobre os meetups realizados e nossas redes socias [aqui](https://github.com/riocss/riocss)**
 
 ## Quer contribuir ?
-Mande um pull request explicando o link que assim que olharmos o pull vamos adicioná-lo aqui e o formato do readme deve ser o seguinte:
+Mande um pull request explicando o link que assim que olharmos o pull vamos adicioná-lo aqui. O formato do readme deve ser o seguinte:
 
 ```
 - ### Título da seção caso não tenha, ex: Svg com css
