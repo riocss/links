@@ -25,7 +25,7 @@ _____
   
 - ### Livros, tutoriais, cursos e videos
   - [Best CSS books, tutorials, videos & courses 2017](https://reactdom.com/blog/css-books), eviado por [@alinebastos](https://github.com/alinebastos) :us:
-  - [CSS CastShow by Afonso Pacífer] (https://www.youtube.com/channel/UC9d_htYmYYFUXB2vBKx4NgA), enviado por [@caio687] (https://github.com/caio687)
+  - [CSS CastShow by Afonso Pacífer](https://www.youtube.com/channel/UC9d_htYmYYFUXB2vBKx4NgA), enviado por [@caio687](https://github.com/caio687)
   
 - ### Desafios de CSS
   - [100dayscss](https://100dayscss.com/), eviado por [@alinebastos](https://github.com/alinebastos)
