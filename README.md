@@ -18,23 +18,23 @@ Mande um pull request explicando o link que assim que olharmos o pull vamos adic
 _____
 
 - ### Otimização e melhoria de código
-  - [Pontuação de especificidade da CSS](https://tableless.com.br/pontuacao-especificidade-css/) by Tableless, eviado por [@lucianobarauna](https://github.com/lucianobarauna)
-  - [Code Guide by @mdo](https://tableless.com.br/code-guide-mdo/) by Tableless, eviado por [@lucianobarauna](https://github.com/lucianobarauna)
-  - [Seu código CSS pode ser mais limpo, flexível e reaproveitável](http://blog.caelum.com.br/seu-codigo-css-pode-ser-mais-limpo-flexivel-e-reaproveitavel/) by Caelum, eviado por [@lucianobarauna](https://github.com/lucianobarauna)
-  - [8 regras simples para uma arquitetura CSS robusta e escalável](https://medium.com/tableless/8-regras-simples-para-uma-arquitetura-css-robusta-e-escal%C3%A1vel-545c6dade170?ct=t(BrazilJS_Weekly_468_9_2013)) by Eduardo Rabelo, eviado por [@alinebastos](https://github.com/alinebastos)
-  
+  - [Pontuação de especificidade da CSS](https://tableless.com.br/pontuacao-especificidade-css/) by Tableless, enviado por [@lucianobarauna](https://github.com/lucianobarauna)
+  - [Code Guide by @mdo](https://tableless.com.br/code-guide-mdo/) by Tableless, enviado por [@lucianobarauna](https://github.com/lucianobarauna)
+  - [Seu código CSS pode ser mais limpo, flexível e reaproveitável](http://blog.caelum.com.br/seu-codigo-css-pode-ser-mais-limpo-flexivel-e-reaproveitavel/) by Caelum, enviado por [@lucianobarauna](https://github.com/lucianobarauna)
+  - [8 regras simples para uma arquitetura CSS robusta e escalável](https://medium.com/tableless/8-regras-simples-para-uma-arquitetura-css-robusta-e-escal%C3%A1vel-545c6dade170?ct=t(BrazilJS_Weekly_468_9_2013)) by Eduardo Rabelo, enviado por [@alinebastos](https://github.com/alinebastos)
+
 - ### Livros, tutoriais, cursos e videos
-  - [Best CSS books, tutorials, videos & courses 2017](https://reactdom.com/blog/css-books), eviado por [@alinebastos](https://github.com/alinebastos) :us:
+  - [Best CSS books, tutorials, videos & courses 2017](https://reactdom.com/blog/css-books), enviado por [@alinebastos](https://github.com/alinebastos) :us:
   - [CSS CastShow by Afonso Pacífer](https://www.youtube.com/channel/UC9d_htYmYYFUXB2vBKx4NgA), enviado por [@caio687](https://github.com/caio687)
-  
+
 - ### Desafios de CSS
-  - [100dayscss](https://100dayscss.com/), eviado por [@alinebastos](https://github.com/alinebastos)
-  - [Daily CSS Images](http://dailycssimages.com/), eviado por [@alinebastos](https://github.com/alinebastos)
-  - [Enjoy CSS](http://enjoycss.com/), eviado por [@alinebastos](https://github.com/alinebastos)
-  
+  - [100dayscss](https://100dayscss.com/), enviado por [@alinebastos](https://github.com/alinebastos)
+  - [Daily CSS Images](http://dailycssimages.com/), enviado por [@alinebastos](https://github.com/alinebastos)
+  - [Enjoy CSS](http://enjoycss.com/), enviado por [@alinebastos](https://github.com/alinebastos)
+
 - ### Jogos
-  - [CSS Dinner](https://flukeout.github.io/), eviado por [@alinebastos](https://github.com/alinebastos)
-  - [Flexbox Froggy](http://flexboxfroggy.com/), eviado por [@alinebastos](https://github.com/alinebastos)
-  - [Flexbox Defense](http://www.flexboxdefense.com/), eviado por [@alinebastos](https://github.com/alinebastos)
-  - [Grid Garden](http://cssgridgarden.com/), eviado por [@alinebastos](https://github.com/alinebastos)
-  - [Flexplorer](http://bennettfeely.com/flexplorer/), eviado por [@alinebastos](https://github.com/alinebastos)
+  - [CSS Dinner](https://flukeout.github.io/), enviado por [@alinebastos](https://github.com/alinebastos)
+  - [Flexbox Froggy](http://flexboxfroggy.com/), enviado por [@alinebastos](https://github.com/alinebastos)
+  - [Flexbox Defense](http://www.flexboxdefense.com/), enviado por [@alinebastos](https://github.com/alinebastos)
+  - [Grid Garden](http://cssgridgarden.com/), enviado por [@alinebastos](https://github.com/alinebastos)
+  - [Flexplorer](http://bennettfeely.com/flexplorer/), enviado por [@alinebastos](https://github.com/alinebastos)
