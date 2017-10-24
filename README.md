@@ -39,7 +39,7 @@ _____
   - [Grid Garden](http://cssgridgarden.com/), enviado por [@alinebastos](https://github.com/alinebastos)
   - [Flexplorer](http://bennettfeely.com/flexplorer/), enviado por [@alinebastos](https://github.com/alinebastos)
   
-  - ### Awards
+- ### Awards
   - [CSS Winner](http://www.csswinner.com/), enviado por [@gustavoquinalha](https://github.com/gustavoquinalha)
   - [CSS Awards](https://www.cssawards.net/), enviado por [@gustavoquinalha](https://github.com/gustavoquinalha) 
   - [Awwwards](https://www.awwwards.com/), enviado por [@gustavoquinalha](https://github.com/gustavoquinalha)
