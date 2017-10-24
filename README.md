@@ -38,3 +38,10 @@ _____
   - [Flexbox Defense](http://www.flexboxdefense.com/), enviado por [@alinebastos](https://github.com/alinebastos)
   - [Grid Garden](http://cssgridgarden.com/), enviado por [@alinebastos](https://github.com/alinebastos)
   - [Flexplorer](http://bennettfeely.com/flexplorer/), enviado por [@alinebastos](https://github.com/alinebastos)
+  
+- ### Awards
+  - [CSS Winner](http://www.csswinner.com/), enviado por [@gustavoquinalha](https://github.com/gustavoquinalha)
+  - [CSS Awards](https://www.cssawards.net/), enviado por [@gustavoquinalha](https://github.com/gustavoquinalha) 
+  - [Awwwards](https://www.awwwards.com/), enviado por [@gustavoquinalha](https://github.com/gustavoquinalha)
+  - [365awesomedesigners](http://365awesomedesigners.com/), enviado por [@gustavoquinalha](https://github.com/gustavoquinalha)
+  - [CSSReel](http://cssreel.com/), enviado por [@gustavoquinalha](https://github.com/gustavoquinalha)
