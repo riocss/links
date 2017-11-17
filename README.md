@@ -28,7 +28,8 @@ _____
 - ### Livros, tutoriais, cursos e videos
   - [Best CSS books, tutorials, videos & courses 2017](https://reactdom.com/blog/css-books), enviado por [@alinebastos](https://github.com/alinebastos) :us:
   - [CSS CastShow by Afonso Pacífer](https://www.youtube.com/channel/UC9d_htYmYYFUXB2vBKx4NgA), enviado por [@caio687](https://github.com/caio687)
-   - [O fodástico :not()](https://www.felipefialho.com/blog/2016/css-o-fodastico-not), enviado por [@eubond](https://github.com/eubond)
+  - [O fodástico :not()](https://www.felipefialho.com/blog/2016/css-o-fodastico-not), enviado por [@eubond](https://github.com/eubond)
+  - [5 mixins úteis e fáceis de usar](https://medium.com/hash-js/5-mixins-uteis-e-faceis-de-usar-a3264863583e), enviado por [@viniciuslagedo](https://github.com/viniciuslagedo)
 
 - ### Desafios de CSS
   - [100dayscss](https://100dayscss.com/), enviado por [@alinebastos](https://github.com/alinebastos)
