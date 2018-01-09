@@ -17,6 +17,8 @@ Mande um pull request explicando o link que assim que olharmos o pull vamos adic
 
 _____
 
+> Se você nunca mexeu com Git e GitHub, nós recomendamos que você faça esse curso (gratuito e sensacional) do [@willianjusten](https://github.com/willianjusten), pois na nossa área o uso do Git e GitHub é essencial: [Git e GitHub para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/).
+
 - ### Otimização e melhoria de código
   - [Pontuação de especificidade da CSS](https://tableless.com.br/pontuacao-especificidade-css/) by Tableless, enviado por [@lucianobarauna](https://github.com/lucianobarauna)
   - [Code Guide by @mdo](https://tableless.com.br/code-guide-mdo/) by Tableless, enviado por [@lucianobarauna](https://github.com/lucianobarauna)
