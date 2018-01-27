@@ -32,6 +32,7 @@ _____
   - [CSS CastShow by Afonso Pacífer](https://www.youtube.com/channel/UC9d_htYmYYFUXB2vBKx4NgA), enviado por [@caio687](https://github.com/caio687)
   - [O fodástico :not()](https://www.felipefialho.com/blog/2016/css-o-fodastico-not), enviado por [@eubond](https://github.com/eubond)
   - [5 mixins úteis e fáceis de usar](https://medium.com/hash-js/5-mixins-uteis-e-faceis-de-usar-a3264863583e), enviado por [@viniciuslagedo](https://github.com/viniciuslagedo)
+  - [DevTips - CSS Transition(CSS Animations Series)](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid)
 
 - ### Desafios de CSS
   - [100dayscss](https://100dayscss.com/), enviado por [@alinebastos](https://github.com/alinebastos)
