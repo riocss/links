@@ -51,7 +51,7 @@ _____
   - [Sass](https://github.com/sass/sass), enviado por [@victorhsanjos](https://github.com/victorhsanjos)
   - [Stylus](http://learnboost.github.io/stylus/), enviado por [@victorhsanjos](https://github.com/victorhsanjos)
 
-- ### Awards
+- ### Sites de referências - Awards
   - [CSS Winner](http://www.csswinner.com/), enviado por [@gustavoquinalha](https://github.com/gustavoquinalha)
   - [CSS Awards](https://www.cssawards.net/), enviado por [@gustavoquinalha](https://github.com/gustavoquinalha) 
   - [Awwwards](https://www.awwwards.com/), enviado por [@gustavoquinalha](https://github.com/gustavoquinalha)
