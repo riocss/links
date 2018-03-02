@@ -33,9 +33,9 @@ _____
   - [O fodástico :not()](https://www.felipefialho.com/blog/2016/css-o-fodastico-not), enviado por [@eubond](https://github.com/eubond)
   - [5 mixins úteis e fáceis de usar](https://medium.com/hash-js/5-mixins-uteis-e-faceis-de-usar-a3264863583e), enviado por [@viniciuslagedo](https://github.com/viniciuslagedo)
   - [DevTips - CSS Transition(CSS Animations Series)](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid), enviado por [@lucianobarauna](https://github.com/lucianobarauna)
-  -[CSS Grid](https://cssgrid.io/) by Wes Bos, enviado por [@edkf](https://github.com/edkf)
-  -[CSS Reference](https://cssreference.io/) by Jeremy Thomas, enviado por [@edkf](https://github.com/edkf)
-  -[What The Flexbox?!](https://flexbox.io/) by Wes Bos, enviado por [@edkf](https://github.com/edkf)
+  - [CSS Grid](https://cssgrid.io/) by Wes Bos, enviado por [@edkf](https://github.com/edkf)
+  - [CSS Reference](https://cssreference.io/) by Jeremy Thomas, enviado por [@edkf](https://github.com/edkf)
+  - [What The Flexbox?!](https://flexbox.io/) by Wes Bos, enviado por [@edkf](https://github.com/edkf)
 
 - ### Desafios de CSS
   - [100dayscss](https://100dayscss.com/), enviado por [@alinebastos](https://github.com/alinebastos)
