@@ -61,3 +61,8 @@ _____
   - [Awwwards](https://www.awwwards.com/), enviado por [@gustavoquinalha](https://github.com/gustavoquinalha)
   - [365awesomedesigners](http://365awesomedesigners.com/), enviado por [@gustavoquinalha](https://github.com/gustavoquinalha)
   - [CSSReel](http://cssreel.com/), enviado por [@gustavoquinalha](https://github.com/gustavoquinalha)
+  
+- ### Ferramentas 
+  - [Easings.co - Ferramenta para visualizar curvas de animações](https://easings.co/), enviado por [@lucianobarauna](https://github.com/lucianobarauna)
+
+
