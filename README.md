@@ -35,7 +35,7 @@ _____
   - [DevTips - CSS Transition(CSS Animations Series)](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid), enviado por [@lucianobarauna](https://github.com/lucianobarauna)
   - [What the Flexbox?](https://flexbox.io/), enviado por [@ingridtartaglia](https://github.com/ingridtartaglia)
   - [CSS Grid](https://cssgrid.io/), enviado por [@ingridtartaglia](https://github.com/ingridtartaglia)
-  - - [Como esconder contéudos e mantendo acessibilidade](https://webaim.org/techniques/css/invisiblecontent/), enviado por [@lucianobarauna](https://github.com/lucianobarauna)
+  - [Como esconder contéudos e mantendo acessibilidade](https://webaim.org/techniques/css/invisiblecontent/), enviado por [@lucianobarauna](https://github.com/lucianobarauna)
 
 - ### Desafios de CSS
   - [100dayscss](https://100dayscss.com/), enviado por [@alinebastos](https://github.com/alinebastos)
