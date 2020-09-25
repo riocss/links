@@ -48,6 +48,8 @@ _____
   - [Flexbox Defense](http://www.flexboxdefense.com/), enviado por [@alinebastos](https://github.com/alinebastos)
   - [Grid Garden](http://cssgridgarden.com/), enviado por [@alinebastos](https://github.com/alinebastos)
   - [Flexplorer](http://bennettfeely.com/flexplorer/), enviado por [@alinebastos](https://github.com/alinebastos)
+  - [CSS Diner](https://flukeout.github.io/), enviado por [@lu1zf](https://github.com/lu1zf)
+  - [Flexbox Zombies](https://mastery.games/flexboxzombies/), enviado por [@lu1zf](https://github.com/lu1zf)
   
 - ### Pré-processadores
   - [LESS](https://github.com/less/less.js), enviado por [@victorhsanjos](https://github.com/victorhsanjos)
