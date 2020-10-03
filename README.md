@@ -39,6 +39,7 @@ _____
 
 - ### Desafios de CSS
   - [100dayscss](https://100dayscss.com/), enviado por [@alinebastos](https://github.com/alinebastos)
+  - [30diasDeCSS](https://github.com/MilenaCarecho/30diasDeCSS), enviado por [@danianith](https://github.com/danianith)
   - [Daily CSS Images](http://dailycssimages.com/), enviado por [@alinebastos](https://github.com/alinebastos)
   - [Enjoy CSS](http://enjoycss.com/), enviado por [@alinebastos](https://github.com/alinebastos)
 
